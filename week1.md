@@ -407,3 +407,4 @@ Create a short cinematic video showing a person walking alone through changing s
   ### **노래: J066_김재훈**
   - 선정이유: 평소에 음악에 관심이 많았는데 AI를 활용한 음악 생성을 한번 경험해 보고 싶었기 때문
   ### **영상: J242_정승준**
+  - 선정 이유: 평소 AI를 활용한 영상을 SNS에서 많이 봐왔고 나도 해보고 싶다는 생각이 강하게 들었다
