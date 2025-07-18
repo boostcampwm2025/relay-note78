@@ -387,3 +387,17 @@ Create a short cinematic video showing a person walking alone through changing s
 ### J017\_고윤성
 
 - ✅ 퀘스트 2. AI에게 학습 퀴즈 요청하고 직접 풀기
+- 
+
+<br/>
+
+---
+
+
+
+# 🎯 퀘스트 분담
+
+  - **웹툰: J072_김지원**
+  - **그림: J274_최지민**
+  - **노래: J066_김재훈**
+  - **영상: J242_정승준**
