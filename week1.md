@@ -286,3 +286,90 @@ Style: pastel tones, soft lighting, emotional tone of reflection.
   - 컷 구성 → GPT, Notion 등에서 미리 구상
   - 그림 생성 → Midjourney, DALL·E
   - 배치 및 말풍선 → Canva, Pixton, ComicGen 등
+
+---
+
+## 🎼 노래 생성 AI 도구 정리
+
+| 도구 이름  | 특징                                                 | 접근 방식                         | 추천 용도                                   |
+|------------|------------------------------------------------------|----------------------------------|---------------------------------------------|
+| **Suno AI** | 프롬프트 기반 전체 노래 생성 (가사+보컬+멜로디) 가능 | 텍스트 or 가사 입력              | 감성 기반 자작곡 제작, 빠른 공유용 음악 생성 |
+| **Udio AI** | 감정 표현 중심의 멜로디와 보컬 생성, 퀄리티 우수    | 텍스트 or 가사 입력              | 분위기 중심의 노래, 한국어 가사 표현도 자연 |
+
+---
+
+## 🎼 노래 생성을 위한 프롬프트 작성법
+
+---
+
+### ✅ 1. 프롬프트 구성 요소
+
+| 요소      | 영어 예시                                                | 한글 설명                            |
+|-----------|-----------------------------------------------------------|--------------------------------------|
+| **주제**  | a song about self-discovery and learning from mistakes    | 자기 발견과 실수를 통해 성장하는 이야기 |
+| **스타일**| soft indie pop, K-pop ballad, lo-fi hiphop                | 인디팝, 발라드, 로파이 등             |
+| **감정**  | hopeful, melancholic, reflective                          | 희망, 쓸쓸함, 성찰 등                 |
+| **보컬**  | female voice, soft tone                                   | 여성 보컬, 부드러운 음색              |
+
+---
+
+### ✅ 2. 프롬프트 예시
+
+#### 예시 1. 영어 노래 프롬프트
+
+```txt
+Create a reflective indie-pop song about realizing one's thought patterns. Include soft piano and ambient background. The lyrics should be introspective, touching on self-awareness and quiet determination. Sung in English.
+```
+
+#### 예시 2. 한국어 노래 프롬프트
+
+```txt
+자기 인식을 주제로 한 감성적인 인디팝 노래를 만들어 주세요. 가사는 내면의 목소리를 듣고, 실수에서 배우는 과정을 담아주세요. 부드러운 피아노와 몽환적인 분위기의 배경이 어울리면 좋겠습니다. 한국어 가사로 불러주세요.
+```
+
+---
+
+### ✅ 3. 작성 팁
+
+- “감정 + 장르 + 보컬”을 조합하면 원하는 톤을 정확히 전달할 수 있음
+- 영어 프롬프트가 모델의 이해도와 표현력을 더 끌어냄 (단, 한글도 지원)
+- 가사를 직접 쓰는 대신 주제만 설명해도 자동 생성 가능
+
+---
+
+## 🎬 영상 생성 AI 도구 정리
+
+| 도구 이름           | 특징                                                | 접근 방식        | 추천 용도                                |
+|---------------------|-----------------------------------------------------|------------------|-------------------------------------------|
+| **Adobe Express**   | 텍스트 기반 영상 생성 (최대 5초, 무료 계정 기준)    | 프롬프트 입력     | 짧은 영상 생성 + 자작 노래 영상화 (뮤비) |
+
+---
+
+## 🎬 영상 생성을 위한 프롬프트 작성법
+
+---
+
+### ✅ 1. 프롬프트 구성 요소
+
+| 요소      | 영어 예시                                               | 한글 설명                                |
+|-----------|----------------------------------------------------------|------------------------------------------|
+| **장면**  | a person walking through shifting seasons                | 계절이 바뀌는 길을 걷는 사람               |
+| **분위기**| cinematic, dreamlike                                     | 영화 같은 느낌, 몽환적                    |
+| **톤**    | soft lighting, natural colors                            | 부드러운 조명, 자연스러운 색감           |
+| **길이**  | under 5 seconds                                          | 5초 이내 (무료 계정 한계)               |
+
+---
+
+### ✅ 2. 프롬프트 예시
+
+```txt
+Create a short cinematic video showing a person walking alone through changing seasons. The final scene ends with a sunrise. Style is soft and reflective. Duration: 5 seconds.
+```
+
+---
+
+### ✅ 3. 작성 팁
+
+- Adobe Express는 **프롬프트 한 문장**으로도 생성 가능하지만, 구체적으로 쓸수록 영상 품질이 올라감
+- 무료 사용자는 영상 길이 5초까지만 가능 → “1장면 중심”으로 프레이밍 필요
+- 배경음악(mp3)은 직접 업로드하여 삽입 가능 → Suno/Udio에서 생성한 음악 활용 가능
