@@ -398,6 +398,7 @@ Create a short cinematic video showing a person walking alone through changing s
 # 🎯 퀘스트 분담
 
   ### **웹툰: J072_김지원**
+  - 선정 이유: 웹툰 생성 AI 경험하기
   ### **그림: J274_최지민**
   ### **노래: J066_김재훈**
   ### **영상: J242_정승준**
