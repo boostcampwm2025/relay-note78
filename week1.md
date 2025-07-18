@@ -391,6 +391,10 @@ Create a short cinematic video showing a person walking alone through changing s
 
 <br/>
 
+### J181\_이도현
+
+- ✅ 퀘스트 4. AI에게 테스트케이스 생성 요청하기
+- 선정 이유 : 항상 엣지 케이스나, 경계 값 등 내가 테스트를 짰을 때는 몇 가지 경우를 빠뜨리는 경우가 많았고, 이를 AI에게 맡겨봄으로써 어떤 추가 케이스가 있는지 학습하고, 테스트 안전성을 높일 수 있다고 생각했음.
 ---
 
 
