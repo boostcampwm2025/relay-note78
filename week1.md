@@ -390,7 +390,7 @@ Create a short cinematic video showing a person walking alone through changing s
 
 1. 프롬프트 작성
 
-```mermaid
+```
 오늘은 [자료구조]에 대해 공부했어.
 이 주제로 [난이도 하]로 OX 또는 객관식 퀴즈 3~5문제를 만들어 줘.
 내가 푼 다음에 정답과 해설도 부탁해.
@@ -399,7 +399,7 @@ Create a short cinematic video showing a person walking alone through changing s
 
 2. AI 퀴즈 예시
 
-```mermaid
+```
 ✅ [자료구조 기초 퀴즈] – 난이도 하 (OX/객관식 혼합)
 
 Q1. (OX)
@@ -428,13 +428,13 @@ Q5. (OX)
 
 3. 퀴즈 답하기
 
-```mermaid
+```
 Q1: X, Q2: C, Q3: O, Q4: C, Q5: X
 ```
 
 4. 정답 및 해설
 
-```mermaid
+```
 ✅ 정답 및 해설
 
 Q1. ❌ 너의 답: X → 정답: O
@@ -468,7 +468,7 @@ Q5. ❌ 너의 답: X → 정답: O
 
 5. AI 추천 보충자료
 
-```mermaid
+```
 📚 틀린 문제 보충 학습 자료
 
 Q1 - 스택 & 큐 차이 (LIFO vs FIFO)
