@@ -93,3 +93,15 @@
   - 선택 퀘스트: 🏅 퀘스트 3. 칭찬하고 싶은 동료에게 주는 상장 이미지 만들기
   - 퀘스트 결과: 슬랙에는 올리지 않았고,, 이미지로 대체합니다. (부끄..)
     ![상장](contents/S039_상장.png)
+
+- **J284**
+  - 선택 퀘스트: 퀘스트 1. 부스트캠프를 대표하는 마스코트 만들기
+  - 퀘스트 결과:
+    - 부스트캠프의 특징을 나열하고, 이를 잘 나타내는 마스코트 캐릭터를 만들어 달라는 프롬프트를 3가지 AI 도구(챗gpt, canva, 뤼튼)에 입력했다.
+    - 3가지 마스코트 중 하나를 골라달라는 투표를 슬랙의 random 채널에 올렸다.
+
+    <img width="1100" height="675" alt="week2_rp_1" src="https://gist.github.com/user-attachments/assets/63300e66-e8ac-461b-a6b3-fbe860fcfd05" />
+    - 투표 결과(25/07/31, 22:20 기준)
+<img width="791" height="342" alt="week2_rp_2_result" src="https://gist.github.com/user-attachments/assets/f307efa7-f64c-4519-98aa-76ccfe3b4c21" />
+
+    - 챗gpt가 만든 마스코트가 압도적 1위를 달성했다. 뤼튼이 만든 마스코트는 한 표도 받지 못했다...
