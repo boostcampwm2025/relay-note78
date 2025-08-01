@@ -82,6 +82,20 @@
 ---
 
 ## 릴레이 과제 수행
+- **J302**
+  - 선택한 퀘스트: 🥠 CS 포춘쿠기 만들기
+  - 퀘스트 결과
+    * 다음과 같이 랜덤으로 컴퓨터과학과 연결된 격언을 포춘쿠키와 이미지를 생성해달라는 요청을 했고 다음과 같이 이미지를 생성해서 슬랙에 공유하였다.
+  > #### day1
+  > <img width="600" alt="image" src="https://github.com/user-attachments/assets/a1ae1d68-62fb-4bee-a1f7-7c9cba054aa1" />
+  >
+  > #### day2
+  > <img width="600" alt="image" src="https://github.com/user-attachments/assets/5c6d2b7d-aafa-4265-9137-e468394d434e" />
+  >
+  > #### day3
+  > <img width="600" alt="image" src="https://github.com/user-attachments/assets/a2754df7-2b93-4b8d-817f-8322a2402346" />
+  
+
 
 - **J188**
   - 선택 퀘스트: 🥠 퀘스트 4. 오늘의 운세 포춘쿠키 만들기
